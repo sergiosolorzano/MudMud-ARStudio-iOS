@@ -15,4 +15,4 @@ Unity Augmented Reality APIs: [AR Foundation](https://docs.unity3d.com/Packages/
 Unity Render Pipeline: Universal Render Pipeline v.7.7.1.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE.txt]() for more information.
+This project is licensed under the MIT License. See [LICENSE.txt](https://github.com/sergiosolorzano/MudMud-ARStudio-iOS/blob/main/LICENSE) for more information.
