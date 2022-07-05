@@ -305,8 +305,11 @@ public class ArtItemLevitate : MonoBehaviour {
         }
 
         IEnumerator coroutine = DemoCountDown();
-        StartCoroutine(coroutine);
-        ARCommonCached.GetLightObject.intensity = 1.6f;
+        if(gameObject.activeSelf)
+            StartCoroutine(coroutine);
+
+        if(ARCommonCached.GetLightObject!=null)
+            ARCommonCached.GetLightObject.intensity = 1.6f;
     }
 
     IEnumerator DemoCountDown()
