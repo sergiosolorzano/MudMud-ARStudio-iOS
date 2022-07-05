@@ -5,7 +5,7 @@ The released iOS app was removed from the Apple app store in 2022. This iOS repo
 
 The Android production version of the app is available on the [Google app store](https://play.google.com/store/apps/details?id=com.Rendergon.MudMudAR_Art).
 
-The 3D models and textures have been removed/altered to protect the artist's intellectual property rights.
+The 3D models and textures have been removed/altered to protect the artist's intellectual property rights. These continue to be available on the Android mobile app version and Sketchfab [artwork 1](https://sketchfab.com/3d-models/mudmud-tribal-art-component-1-fbc49cd2684d43a28d5f6a889290f72e), [artwork 2](https://sketchfab.com/3d-models/mudmud-tribal-art-component-2-6f7da650a5a8426f9b1db61b0b88a10c), [artwork 3](https://sketchfab.com/3d-models/mudmud-tribal-art-component-3-bbc4642ab606425c9088faef119fb1fe), [artwork 4](https://sketchfab.com/3d-models/glace-ceramic-3a5eb273d09a435b9ad06d9cbf0593b4).
 
 ## Project Software
 Unity version: Unity 2019.4.36f1, Build Platform iOS.
