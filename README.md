@@ -7,6 +7,12 @@ The Android production version of the app is available on the [Google app store]
 
 The 3D models and textures have been removed/altered to protect the artist's intellectual property rights. These continue to be available on the Android mobile app version and Sketchfab [artwork 1](https://sketchfab.com/3d-models/mudmud-tribal-art-component-1-fbc49cd2684d43a28d5f6a889290f72e), [artwork 2](https://sketchfab.com/3d-models/mudmud-tribal-art-component-2-6f7da650a5a8426f9b1db61b0b88a10c), [artwork 3](https://sketchfab.com/3d-models/mudmud-tribal-art-component-3-bbc4642ab606425c9088faef119fb1fe), [artwork 4](https://sketchfab.com/3d-models/glace-ceramic-3a5eb273d09a435b9ad06d9cbf0593b4).
 
+<p align="center">
+<img width="150" alt="star" src="https://github.com/sergiosolorzano/ai_gallery/assets/24430655/3c0b02ea-9b11-401a-b6f5-c61b69ad651b">
+</p>
+
+---------------------------------------------
+
 ## Project Software
 Unity version: Unity 2019.4.36f1, Build Platform iOS.
 
@@ -16,3 +22,7 @@ Unity Render Pipeline: Universal Render Pipeline v.7.7.1.
 
 ## License
 This project is licensed under the MIT License. See [LICENSE.txt](https://github.com/sergiosolorzano/MudMud-ARStudio-iOS/blob/main/LICENSE) for more information.
+
+If you find this helpful you can buy me a coffee :)
+   
+<a href="https://www.buymeacoffee.com/sergiosolorzano" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
